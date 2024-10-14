@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=kasuni17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-## 🌱 About Me
+## 🌱 About Me       
 <ul>
   <li style="animation: fadeInUp 1.5s ease;">Currently learning <strong>Next.js</strong> and <strong>React</strong></li>
   <li style="animation: fadeInUp 1.7s ease;">Looking to collaborate on <strong>Web Development Projects</strong></li>
@@ -32,7 +32,7 @@
 
 
 ## 🛠️ Languages and Tools
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 9px;">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
