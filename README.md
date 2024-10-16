@@ -8,7 +8,7 @@
 </p>
 
 <div style="text-align: center;">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="1000" hiight="300" alt="Coding gif">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="1000" hiight="200" alt="Coding gif">
 </div>
 
 ## 🌱 About Me
