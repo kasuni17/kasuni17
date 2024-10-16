@@ -1,23 +1,27 @@
-<h1 align="center" style="animation: slideIn 1s ease-out; color: #333;">
+<h1 align="center" style="animation: slideIn 1s ease-out; color: #333; font-family: 'Poppins', sans-serif;">
   Hi 👋, I'm <span style="color: #ff6347; text-shadow: 2px 2px #f0f0f0;">Kasuni Peiris</span>
 </h1>
-<h3 align="center" style="animation: fadeIn 1.5s ease-in;">A passionate Software Engineering Undergraduate.</h3>
+<h3 align="center" style="animation: fadeIn 1.5s ease-in; color: #555; font-family: 'Poppins', sans-serif;">A passionate Software Engineering Undergraduate.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kasuni17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kasuni17&label=Profile%20views&color=ff6347&style=plastic" alt="Profile views" />
 </p>
 
-## 🌱 About Me       
-<ul>
-  <li style="animation: fadeInUp 1.5s ease;">Currently learning <strong>Next.js</strong> and <strong>React</strong></li>
-  <li style="animation: fadeInUp 1.7s ease;">Looking to collaborate on <strong>Web Development Projects</strong></li>
-  <li style="animation: fadeInUp 1.9s ease;">Ask me about <strong>Web Development, Project Management, or anything related to Software Engineering</strong></li>
-  <li style="animation: fadeInUp 2.1s ease;">How to reach me: <a href="mailto:kasuniik417@gmail.com"><strong>kasuniik417@gmail.com</strong></a></li>
-  <li style="animation: fadeInUp 2.3s ease;">Fun fact: You can call me <strong>Kasu!</strong></li>
+<div style="text-align: center;">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="1000" hiight="300" alt="Coding gif">
+</div>
+
+## 🌱 About Me
+<ul style="list-style-type: none; padding-left: 0; font-family: 'Poppins', sans-serif;">
+  <li style="animation: fadeInUp 1.5s ease;">🌐 Currently learning <strong>Next.js</strong> and <strong>React</strong></li>
+  <li style="animation: fadeInUp 1.7s ease;">🤝 Looking to collaborate on <strong>Web Development Projects</strong></li>
+  <li style="animation: fadeInUp 1.9s ease;">💬 Ask me about <strong>Web Development, Project Management, or Software Engineering</strong></li>
+  <li style="animation: fadeInUp 2.1s ease;">📫 How to reach me: <a href="mailto:kasuniik417@gmail.com" style="color: #ff6347;"><strong>kasuniik417@gmail.com</strong></a></li>
+  <li style="animation: fadeInUp 2.3s ease;">😄 Fun fact: You can call me <strong>Kasu!</strong></li>
 </ul>
 
 ## 📬 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/kasuni-peiris-69203b181" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -29,10 +33,8 @@
   </a>
 </p>
 
-
-
 ## 🛠️ Languages and Tools
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 9px;">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
@@ -49,5 +51,10 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/></a>
 </p>
 
-[![Kasuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasuni17&show_icons=true)](https://github.com/kasuni17/github-readme-stats&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasuni17&exclude_repo=github-readme-stats,kasuni17.github.io)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kasuni17&show_icons=true&theme=radical" alt="Kasuni's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuni17&layout=compact&theme=radical" alt="Top Languages" />
+</p>
