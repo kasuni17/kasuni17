@@ -49,8 +49,4 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/></a>
 </p>
 
-## 📊 GitHub Stats
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasuni17&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kasuni17&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+[![Kasuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasuni17)](https://github.com/kasuni17/github-readme-stats)
