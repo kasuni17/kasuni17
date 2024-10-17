@@ -17,6 +17,9 @@
 ---
 
 ## 🌱 About Me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 <ul style="list-style-type: none; padding-left: 0; font-family: 'Poppins', sans-serif;">
   <li style="animation: fadeInUp 1.5s ease;">🌐 Currently learning <strong>Next.js</strong> and <strong>React</strong></li>
   <li style="animation: fadeInUp 1.7s ease;">🤝 Looking to collaborate on <strong>Web Development Projects</strong></li>
