@@ -18,7 +18,7 @@
 
 ## 🌱 About Me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
 <ul style="list-style-type: none; padding-left: 0; font-family: 'Poppins', sans-serif;">
   <li style="animation: fadeInUp 1.5s ease;">🌐 Currently learning <strong>Next.js</strong> and <strong>React</strong></li>
@@ -32,7 +32,7 @@
 
 ## 🚀 Technical Skills & Tools
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
@@ -47,11 +47,15 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/></a>
-</p>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>
+   <a href="https://rstudio.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R Studio" width="40" height="40"/></a> 
+ </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=kasuni17&show_icons=true&theme=radical&cache_seconds=1800" alt="Kasuni's GitHub stats" />
 </p>
@@ -77,7 +81,6 @@
 </p>
 
 ---
-
 
 
 <p align="center" style="font-family: 'Poppins', sans-serif;">I love coding and solving real-world problems with tech solutions 💻</p>
