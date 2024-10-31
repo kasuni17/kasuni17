@@ -1,15 +1,15 @@
 <h1 align="center" style="animation: slideIn 1s ease-out; color: #333; font-family: 'Poppins', sans-serif;">
-  Hi there 👋, I'm <span style="color: #ff6347; text-shadow: 2px 2px #f0f0f0;">Kasuni Peiris</span> 
+  Hello 👋, I'm <span style="color: #ff6347; text-shadow: 2px 2px #f0f0f0;">Kasuni Peiris</span>
 </h1>
 <h3 align="center" style="animation: fadeIn 1.5s ease-in; color: #555; font-family: 'Poppins', sans-serif;">
-  A Passionate Software Engineering Undergraduate
+  Software Engineering Undergraduate | Passionate Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kasuni17&label=Profile%20views&color=ff6347&style=plastic" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kasuni17&label=Profile%20views&color=ff6347&style=flat-square" alt="Profile views" />
 </p>
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="1000" height="250" alt="Coding gif">
 </div>
 
@@ -20,17 +20,20 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
 <ul style="list-style-type: none; padding-left: 0; font-family: 'Poppins', sans-serif;">
-  <li style="animation: fadeInUp 1.5s ease;">🌐 Currently learning <strong>Next.js</strong> and <strong>React</strong></li>
-  <li style="animation: fadeInUp 1.7s ease;">🤝 Looking to collaborate on <strong>Web Development Projects</strong></li>
-  <li style="animation: fadeInUp 1.9s ease;">💬 Ask me about <strong>Web Development, Project Management, or Software Engineering</strong></li>
-  <li style="animation: fadeInUp 2.1s ease;">📫 How to reach me: <a href="mailto:kasuniik417@gmail.com" style="color: #ff6347;"><strong>kasuniik417@gmail.com</strong></a></li>
-  <li style="animation: fadeInUp 2.3s ease;">😄 Fun fact: You can call me <strong>Kasu!</strong></li>
+  <li style="animation: fadeInUp 1.5s ease;">🌐 Currently exploring <strong>Next.js</strong> and <strong>React</strong></li>
+  <li style="animation: fadeInUp 1.7s ease;">🤝 Seeking collaborations on <strong>Web Development Projects</strong></li>
+  <li style="animation: fadeInUp 1.9s ease;">💬 Chat with me about <strong>Software Engineering, Project Management, and Web Development</strong></li>
+  <li style="animation: fadeInUp 2.1s ease;">📫 Reach out: <a href="mailto:kasuniik417@gmail.com" style="color: #ff6347;"><strong>kasuniik417@gmail.com</strong></a></li>
+  <li style="animation: fadeInUp 2.3s ease;">😄 Fun fact: I go by <strong>Kasu!</strong></li>
 </ul>
 
 ---
 
-## 🚀 Technical Skills & Tools
+## 🚀 Skills & Tools
 
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <!-- Icon links can be updated or customized here -->
+ 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
@@ -56,7 +59,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=kasuni17&show_icons=true&theme=radical&cache_seconds=1800" alt="Kasuni's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kasuni17&show_icons=true&theme=radical&cache_seconds=1800" alt="Kasuni's GitHub stats" />
 </p>
 
 <p align="center">
@@ -81,5 +84,4 @@
 
 ---
 
-
-<p align="center" style="font-family: 'Poppins', sans-serif;">I love coding and solving real-world problems with tech solutions 💻</p>
+<p align="center" style="font-family: 'Poppins', sans-serif; color: #333;">I love coding and tackling real-world challenges with technology solutions 💻</p>
