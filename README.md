@@ -1,88 +1,104 @@
-<h1 align="center" style="animation: slideIn 1s ease-out; color: #333; font-family: 'Poppins', sans-serif;">
-  Hello 👋, I'm <span style="color: #ff6347; text-shadow: 2px 2px #f0f0f0;">Kasuni Peiris</span>
+<h1 align="center">
+  👋 Hi, I'm <span style="color: #ff6347;">Kasuni Peiris</span>
 </h1>
 
-<h3 align="center" style="animation: fadeIn 1.5s ease-in; color: #555; font-family: 'Poppins', sans-serif;">
-  Software Engineering Undergraduate | Passionate Problem Solver
+<h3 align="center">
+  Software Engineering Undergraduate | Web Developer | Tech Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kasuni17&label=Profile%20views&color=ff6347&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kasuni17&label=Profile%20Views&color=ff6347&style=flat-square" alt="Profile Views" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="1000" height="250" alt="Coding gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="Coding GIF">
 </div>
 
 ---
 
-## 🌱 About Me
+## 🌟 About Me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" style="border-radius: 10px;">
 
-<ul style="list-style-type: none; padding-left: 0; font-family: 'Poppins', sans-serif;">
-  <li style="animation: fadeInUp 1.5s ease;">🌐 Currently exploring <strong>Next.js</strong> and <strong>React</strong></li>
-  <li style="animation: fadeInUp 1.7s ease;">🤝 Seeking collaborations on <strong>Web Development Projects</strong></li>
-  <li style="animation: fadeInUp 1.9s ease;">💬 Chat with me about <strong>Software Engineering, Project Management, and Web Development</strong></li>
-  <li style="animation: fadeInUp 2.1s ease;">📫 Reach out: <a href="mailto:kasuniik417@gmail.com" style="color: #ff6347;"><strong>kasuniik417@gmail.com</strong></a></li>
-  <li style="animation: fadeInUp 2.3s ease;">😄 Fun fact: I go by <strong>Kasu!</strong></li>
-</ul>
+- 🎓 Pursuing **BSc (Hons) Software Engineering** at Cardiff Metropolitan University (ICBT Campus)  
+- 🌱 Exploring advanced web technologies like **Next.js**, **React**, and **TailwindCSS**  
+- 🤝 Open to collaborations on **web development** and **software engineering projects**  
+- 🏆 Recipient of multiple **academic awards** for English, IT, and Music  
+- 📫 Connect: [kasuniik417@gmail.com](mailto:kasuniik417@gmail.com)  
+- 🎵 Fun Fact: I’m a passionate musician and part of various bands and societies  
 
 ---
 
-## 🚀 Skills & Tools
+## 🚀 Key Projects
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <!-- Icon links can be updated or customized here -->
- 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>
-   <a href="https://rstudio.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R Studio" width="40" height="40"/></a> 
- </p>
+### 🎮 [Gym Management System](https://github.com/kasuni17/Gym-Management-System)
+A comprehensive platform for managing gym operations with roles for Admin, Member, and Staff.  
+**Tech Stack:** PHP, MySQL, Bootstrap.
+
+---
+
+### 🚂 [Railway Ticket Booking System](https://github.com/kasuni17/Railway-Ticket-Booking-System)
+Designed for the Sri Lankan Railway Department, this system supports train search and ticket booking with API integration.  
+**Tech Stack:** C#.
+
+---
+
+### 🐾 [FURBUDDY - Pet Care Mobile App](https://github.com/kasuni17/FURBUDDY-Pet-Care-Mobile-App)
+A mobile app connecting pet owners and caregivers with search, booking, and review features.  
+**Tech Stack:** Kotlin, Firebase.
+
+---
+
+### 🍎 [Apple iStore Stock Management System](https://github.com/kasuni17/Apple-iStore-Stock-Management-System)
+Streamlines inventory control, enabling cashiers and managers to handle tasks efficiently.  
+**Tech Stack:** Java, SQL.
+
+---
+
+
+
+## 🌟 Skills & Technologies
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50px" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50px" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50px" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50px" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasuni17&show_icons=true&theme=radical&cache_seconds=1800" alt="Kasuni's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuni17&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kasuni17&show_icons=true&theme=radical" alt="Kasuni's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuni17&layout=compact&theme=radical" alt="Top Languages" width="49%" />
 </p>
 
 ---
 
-## 📬 Connect with Me
+## 📬 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/kasuni-peiris-69203b181" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40px" />
   </a>
   <a href="https://fb.com/100068606920864" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40px" />
   </a>
   <a href="https://instagram.com/k_a_s_u_02_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40px" />
   </a>
 </p>
 
 ---
 
-<p align="center" style="font-family: 'Poppins', sans-serif; color: #333;">I love coding and tackling real-world challenges with technology solutions 💻</p>
+<p align="center">
+  "Striving to bridge the gap between ideas and impactful solutions through technology!" 🌟
+</p>
