@@ -1,17 +1,17 @@
 <h1 align="center">
-  👋 Hi, I'm <span style="color: #ff6347;">Kasuni Peiris</span>
+  👋 Hello, I'm <span style="color: #ff4500;">Kasuni Peiris</span>
 </h1>
 
 <h3 align="center">
-  Software Engineering Undergraduate | Web Developer | Tech Enthusiast
+  Software Engineering Undergraduate | Web Developer | Tech Enthusiast 🚀
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kasuni17&label=Profile%20Views&color=ff6347&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kasuni17&label=Profile%20Views&color=orange&style=flat-square" alt="Profile Views" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80%" alt="Coding GIF">
 </div>
 
 ---
@@ -21,55 +21,55 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" style="border-radius: 10px;">
 
 - 🎓 Pursuing **BSc (Hons) Software Engineering** at Cardiff Metropolitan University (ICBT Campus)  
-- 🌱 Exploring advanced web technologies like **Next.js**, **React**, and **TailwindCSS**  
-- 🤝 Open to collaborations on **web development** and **software engineering projects**  
-- 🏆 Recipient of multiple **academic awards** for English, IT, and Music  
-- 📫 Connect: [kasuniik417@gmail.com](mailto:kasuniik417@gmail.com)  
-- 🎵 Fun Fact: I’m a passionate musician and part of various bands and societies  
+- 🌱 Diving into modern frameworks like **Next.js**, **Vue.js**, and **TailwindCSS**  
+- 🤝 Open for collaborations in **Web Development**, **AI**, and **Innovative Tech Solutions**  
+- 🎵 Passionate musician with a love for creativity  
+- 📫 Reach me: [kasuniik417@gmail.com](mailto:kasuniik417@gmail.com)  
+- ✨ Fun Fact: I find joy in merging art and technology to create meaningful experiences  
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Projects & Contributions
 
-### 🎮 [Gym Management System](https://github.com/kasuni17/Gym-Management-System)
-A comprehensive platform for managing gym operations with roles for Admin, Member, and Staff.  
-**Tech Stack:** PHP, MySQL, Bootstrap.
-
----
-
-### 🚂 [Railway Ticket Booking System](https://github.com/kasuni17/Railway-Ticket-Booking-System)
-Designed for the Sri Lankan Railway Department, this system supports train search and ticket booking with API integration.  
-**Tech Stack:** C#.
+### 🎮 [Smart Gym Management System](https://github.com/kasuni17/Smart-Gym-Management)
+A dynamic system enhancing gym operations with personalized dashboards and analytics.  
+**Tech Stack:** Laravel, MySQL, Bootstrap.
 
 ---
 
-### 🐾 [FURBUDDY - Pet Care Mobile App](https://github.com/kasuni17/FURBUDDY-Pet-Care-Mobile-App)
-A mobile app connecting pet owners and caregivers with search, booking, and review features.  
-**Tech Stack:** Kotlin, Firebase.
+### 🚂 [Advanced Railway Ticketing System](https://github.com/kasuni17/Railway-Ticketing-System)
+Enhanced ticketing system for Sri Lankan Railways with real-time API integrations and user-friendly interfaces.  
+**Tech Stack:** C#, .NET Core.
 
 ---
 
-### 🍎 [Apple iStore Stock Management System](https://github.com/kasuni17/Apple-iStore-Stock-Management-System)
-Streamlines inventory control, enabling cashiers and managers to handle tasks efficiently.  
-**Tech Stack:** Java, SQL.
+### 🐾 [FURBUDDY - Pet Care Platform](https://github.com/kasuni17/FURBUDDY-Pet-Care-App)
+A full-fledged pet care platform offering caregiver services with live tracking.  
+**Tech Stack:** Kotlin, Firebase, Material UI.
 
 ---
 
+### 🍎 [iStore Inventory Manager](https://github.com/kasuni17/iStore-Inventory-Manager)
+Optimized stock management for retail businesses with real-time insights and reports.  
+**Tech Stack:** React, Node.js, MongoDB.
 
+---
 
-## 🌟 Skills & Technologies
+## 🌐 Skills & Technologies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50px" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50px" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50px" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50px" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50px" />
 </p>
 
 ---
@@ -77,8 +77,12 @@ Streamlines inventory control, enabling cashiers and managers to handle tasks ef
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasuni17&show_icons=true&theme=radical" alt="Kasuni's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuni17&layout=compact&theme=radical" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kasuni17&show_icons=true&theme=radical" alt="Kasuni's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kasuni17&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuni17&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -100,5 +104,5 @@ Streamlines inventory control, enabling cashiers and managers to handle tasks ef
 ---
 
 <p align="center">
-  "Striving to bridge the gap between ideas and impactful solutions through technology!" 🌟
+  "Bridging creativity and technology to craft innovative solutions." 🌟
 </p>
