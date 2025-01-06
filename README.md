@@ -49,7 +49,7 @@ A full-fledged pet care platform offering caregiver services with live tracking.
 
 ---
 
-### 🍎 [iStore Inventory Manager](https://github.com/kasuni17/iStore-Inventory-Manager)
+### 🍎 [iStore Inventory Manager](https://github.com/kasuni17/Apple-iStore-Stock-Management-System.git)
 Optimized stock management for retail businesses with real-time insights and reports.  
 **Tech Stack:** React, Node.js, MongoDB.
 
