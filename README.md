@@ -31,6 +31,14 @@
 
 ## 🚀 Projects & Contributions
 
+### 🚕 [Mega Cab Reservation System](https://github.com/kasuni17/Mega-Cab-Reservation-System)
+Enterprise Transportation Solution.
+✅ Real-time Booking Engine | ✅ Dynamic Pricing | ✅ Multi-vendor Support  
+**Tech Stack:** PHP, MySQL ,JavaScript , Bootstrap
+
+
+---
+
 ### 🎮 [Smart Gym Management System](https://github.com/kasuni17/Smart-Gym-Management)
 A dynamic system enhancing gym operations with personalized dashboards and analytics.  
 **Tech Stack:** Laravel, MySQL, Bootstrap.
@@ -76,14 +84,16 @@ Optimized stock management for retail businesses with real-time insights and rep
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasuni17&show_icons=true&theme=radical" alt="Kasuni's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kasuni17&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuni17&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kasuni17&theme=react-dark&hide_border=true&area=true&custom_title=Code+Contribution+Map)
+
+| ![Stats](https://github-readme-stats.vercel.app/api?username=kasuni17&show_icons=true&theme=radical) | ![Streak](https://github-readme-streak-stats.herokuapp.com?user=kasuni17&theme=radical&date_format=j%20M%5B%20Y%5D) |
+| --- | --- |
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasuni17&layout=compact&theme=radical&langs_count=8)
+
+</div>
 
 ---
 
@@ -100,6 +110,8 @@ Optimized stock management for retail businesses with real-time insights and rep
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40px" />
   </a>
 </p>
+
+
 
 ---
 
