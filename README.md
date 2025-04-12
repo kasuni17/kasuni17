@@ -86,7 +86,6 @@ Optimized stock management for retail businesses with real-time insights and rep
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kasuni17&theme=react-dark&hide_border=true&area=true&custom_title=Code+Contribution+Map)
 
 | ![Stats](https://github-readme-stats.vercel.app/api?username=kasuni17&show_icons=true&theme=radical) | ![Streak](https://github-readme-streak-stats.herokuapp.com?user=kasuni17&theme=radical&date_format=j%20M%5B%20Y%5D) |
 | --- | --- |
